@@ -1,8 +1,11 @@
 # CODTECH-TASK1
-NAME:V VIJAYBHARATHY 
+NAME:  V VIJAYBHARATHY 
 DOMAIN: SOFTWARE DEVELOPMENT 
-COLLEGE:ST. PETER'S INSTITUTE OF HIGHER EDUCATION AND RESEARCH,AVADI
+
+COLLEGE:  ST. PETER'S INSTITUTE OF HIGHER EDUCATION AND RESEARCH,AVADI
+
 ID:CT12DS3059
+
 DURATION:12 DEC 2024 TO 12 FEB 2025
 
 **OVERVIEW OF THE PROJECT**
@@ -10,6 +13,7 @@ DURATION:12 DEC 2024 TO 12 FEB 2025
 PROJECT: E-COMMERCE WEBSITE
 
 **OBJECTIVE**
+
 Develop a comprehensive e-commerce website or mobile application thatenables users to browse products, add items to a shopping cart, and complete purchases.
 
 **Technologies Used:**
@@ -19,10 +23,13 @@ Develop a comprehensive e-commerce website or mobile application thatenables use
 **CSS**: For styling the page, making it visually appealing and responsive.
 
 **JavaScript**: For handling dynamic actions like adding products to the cart, updating the cart count, and displaying the total price.
+
 **Key Features**:
 
 •Simple product listing.
+
 •Interactive cart with dynamic updates.
+
 •Basic checkout functionality (just an alert for now).
 
 This is a basic e-commerce website where users can browse a collection of products and add them to their cart. Here’s a simple breakdown of the project:
