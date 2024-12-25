@@ -1,0 +1,40 @@
+let cart = [];
+
+function addToCart(id, name, price) {
+  const product = { id, name, price };
+  cart.push(product);
+  updateCart();
+}
+
+function updateCart() {
+  const cartCount = document.getElementById('cart-count');
+  const cartItems = document.getElementById('cart-items');
+  const total = document.getElementById('total');
+
+  cartItems.innerHTML = '';
+  let totalAmount = 0;
+  
+  cart.forEach(item => {
+    const itemElement = document.createElement('div');
+    itemElement.textContent = `${item.name} - ₹${item.price}`;
+    cartItems.appendChild(itemElement);
+    totalAmount += item.price;
+  });
+
+  cartCount.textContent = cart.length;
+  total.textContent = `Total: ₹${totalAmount}`;
+}
+
+function checkout() {
+  if (cart.length === 0) {
+    alert('Your cart is empty!');
+  } else {
+    alert('Proceeding to Checkout');
+    // You can add more functionality here to handle form submission and payment
+  }
+}
+
+function viewCart() {
+  const cartModal = document.getElementById('cart-modal');
+  cartModal.style.display = 'block';
+}
