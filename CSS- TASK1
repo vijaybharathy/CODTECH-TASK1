@@ -126,7 +126,6 @@ footer p {
   font-size: 14px;
 }
 
-/* New styles for the cart modal */
 #cart-modal {
   position: fixed;
   top: 0;
