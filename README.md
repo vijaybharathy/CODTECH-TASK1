@@ -12,6 +12,9 @@ DURATION:12 DEC 2024 TO 12 FEB 2025
 
 PROJECT: E-COMMERCE WEBSITE
 
+!![Screenshot_2024_1228_165337](https://github.com/user-attachments/assets/756babaf-4ab5-455e-a2ec-1110a1b3f592)
+
+
 **OBJECTIVE**
 
 Develop a comprehensive e-commerce website or mobile application thatenables users to browse products, add items to a shopping cart, and complete purchases.
